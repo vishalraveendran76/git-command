@@ -2,4 +2,4 @@ git add .
 
 git branch newbranch
 
-there are many people in this world, but vishal is different. he commonly known as "fun guy" because he say
+git pull 
